@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aja090 Front-end & UI/UX
 - 👀 I’m interested in web developer & web desgin
-- 🌱 I’m currently learning Back-end
 - 📫 How to reach me 07724206921 and my email opl3063@gmail.com
 
 <!---
